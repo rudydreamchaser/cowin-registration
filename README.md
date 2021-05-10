@@ -12,7 +12,7 @@ sudo apt-get install beep
 
 Then, run the script file as show below:
 
-python3 src\covid-vaccine-slot-booking.py
+python3 src\slot-booking.py
 
 Third-Party Package Dependency:
 
